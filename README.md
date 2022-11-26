@@ -1,2 +1,3 @@
 My first readme
-doing this for fun.
+doing this for fun (edited readme).
+
